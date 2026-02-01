@@ -3,19 +3,16 @@ This project provides a comprehensive, data-driven analysis of US Health Insuran
 
 # Dashboard Architecture
 1. Patient Analysis (Demographics)
-Focuses on the "Who." This dashboard provides a census-style view of the applicant pool, including regional distribution and gender/age splits.
-
-Key Insight: Balanced gender distribution but significant regional clusters in the Southeast.
+   Focuses on the "Who." This dashboard provides a census-style view of the applicant pool, including regional distribution and gender/age splits.
+   Key Insight: Balanced gender distribution but significant regional clusters in the Southeast.
 
 2. Insurance Cost Analysis (Financials)
-Focuses on the "What." This explores the financial variance across different profiles.
-
-Key Insight: Smokers pay significantly higher premiums (Avg ~$32k) compared to non-smokers (Avg ~$8k).
+   Focuses on the "What." This explores the financial variance across different profiles.
+   Key Insight: Smokers pay significantly higher premiums (Avg ~$32k) compared to non-smokers (Avg ~$8k).
 
 3. Risk Profile & Cost Drivers (Analytics)
-Focuses on the "Why." This deep dive uses advanced visuals to identify the highest financial risks.
-
-Key Insight: The combination of Obesity and Smoking leads to the highest insurance charges, regardless of region.
+   Focuses on the "Why." This deep dive uses advanced visuals to identify the highest financial risks.
+   Key Insight: The combination of Obesity and Smoking leads to the highest insurance charges, regardless of region.
 
 # Key Findings
 BMI & Charges: A clear positive correlation exists; as BMI moves from "Normal" to "Obese," insurance charges spike by over 50%.
